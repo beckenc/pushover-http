@@ -1,6 +1,6 @@
 # Pushover for HTTP
 
-A simple HTTP api for the [Pushover](https://pushover.net) sercice.
+A simple HTTP api for the [Pushover](https://pushover.net) service.
 This is to make the service accessible for smaller (e.g. embedded) devices that does not support https.
 
 ### Install via composer
